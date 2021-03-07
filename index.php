@@ -14,13 +14,8 @@
         <section class="checkbox-wrapper">          
                 
                     <input type="checkbox" name="linguagens" class="checkbox" id="ling01" value="c#"> 
-                    <label for="ling01" class="checkbox-label">C#</label>
-                    <input type="checkbox" name="linguagens"  class="checkbox"id="ling02" value="php" checked>
-                    <label for="ling02" class="checkbox-label">Php</label>
-                    <input type="checkbox" name="linguagens"  class="checkbox" id="ling03" value="js">
-                    <label for="ling03" class="checkbox-label">Js</label>
-                    <input type="checkbox" name="linguagens"  class="checkbox" id="ling04" value="java">
-                    <label for="ling04" class="checkbox-label">Java</label>
+                    <label for="ling01" class="checkbox-label">Agrupar Lojas na Matriz</label>
+                    
             
         </section>
     </main>
