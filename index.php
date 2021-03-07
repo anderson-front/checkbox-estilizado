@@ -11,8 +11,7 @@
 
 <body>
     <main class="wrapper">
-        <section class="checkbox-wrapper"> 
-            
+        <section class="checkbox-wrapper">          
                 
                     <input type="checkbox" name="linguagens" class="checkbox" id="ling01" value="c#"> 
                     <label for="ling01" class="checkbox-label">C#</label>
