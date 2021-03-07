@@ -6,17 +6,18 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    
 }
 
 
 .wrapper{
-    height: 100vh;
+    height: 35vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     box-sizing: border-box;
     position: relative;
+    margin-left: 10px;
 }
 
 .wrapper section{
@@ -32,7 +33,6 @@ body{
 
 .checkbox-label{
     display: flex;
-    align-items: center;
     letter-spacing: 0.4px;
     font-size: 18px;
     color: #fff;
